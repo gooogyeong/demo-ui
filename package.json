@@ -7,11 +7,9 @@
     "packages/*"
   ],
   "scripts": {
-    "start": "lerna exec --scope @demo-ui/app -- yarn start",
     "dev": "lerna exec --scope @demo-ui/vite-app -- yarn dev"
   },
   "devDependencies": {
-    "craco": "^0.0.3",
     "lerna": "^6.5.1"
   },
   "private": true
