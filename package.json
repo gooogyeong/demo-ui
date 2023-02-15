@@ -10,7 +10,8 @@
     "dev": "lerna exec --scope @demo-ui/vite-app -- yarn dev"
   },
   "devDependencies": {
-    "lerna": "^6.5.1"
+    "lerna": "^6.5.1",
+    "vite-plugin-dts": "^1.7.3"
   },
   "private": true
 }

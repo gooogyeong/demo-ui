@@ -1,6 +1,5 @@
 {
   "name": "@demo-ui/vite-button",
-  "private": true,
   "main": "./src/index.tsx",
   "version": "0.0.0",
   "type": "module",
