@@ -1,5 +1,6 @@
 {
   "name": "@demo-ui/vite-button",
+  "license": "UNLICENSED",
   "main": "./src/index.tsx",
   "version": "0.1.0-alpha.0",
   "type": "module",
@@ -18,5 +19,6 @@
     "@vitejs/plugin-react": "^3.1.0",
     "typescript": "^4.9.3",
     "vite": "^4.1.0"
-  }
+  },
+  "gitHead": "cf8008bb7edc70f749e3a8eb7bccff450a8ef687"
 }
