@@ -2,7 +2,7 @@
   "name": "@demo-ui/vite-button",
   "license": "UNLICENSED",
   "main": "./src/index.tsx",
-  "version": "0.2.0-alpha.0",
+  "version": "0.2.1-alpha.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
