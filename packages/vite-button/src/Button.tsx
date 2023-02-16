@@ -7,7 +7,7 @@ interface Props {
 
 const Button = (props: Props) => {
  return (
-  <button {...props} style={{border: '3px solid red'}} />
+  <button {...props} style={{border: '3px solid purple'}} />
  )  
 }
 
